@@ -8,6 +8,20 @@
       "when": 1717487409359,
       "tag": "0000_flimsy_yellow_claw",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1717575989660,
+      "tag": "0001_gorgeous_patch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1717586123324,
+      "tag": "0002_lush_stark_industries",
+      "breakpoints": true
     }
   ]
 }
